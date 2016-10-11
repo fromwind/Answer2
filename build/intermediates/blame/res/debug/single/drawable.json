@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\aa\\Answer\\build\\intermediates\\res\\merged\\debug\\drawable\\back.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\aa\\Answer\\res\\drawable\\back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\aa\\Answer\\build\\intermediates\\res\\merged\\debug\\drawable\\answer_choose_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\aa\\Answer\\res\\drawable\\answer_choose_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\aa\\Answer\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bg_gray.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\aa\\Answer\\res\\drawable\\btn_bg_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\aa\\Answer\\build\\intermediates\\res\\merged\\debug\\drawable\\darkblue_btn_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\aa\\Answer\\res\\drawable\\darkblue_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\aa\\Answer\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_dialog.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\aa\\Answer\\res\\drawable\\bg_dialog.xml"
+    }
+]

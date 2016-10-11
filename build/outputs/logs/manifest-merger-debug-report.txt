@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml:2:1-54:12
+	package
+		ADDED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml:3:5-33
+	android:versionName
+		ADDED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml:7:5-9:41
+MERGED from [org.xutils:xutils:3.3.36] C:\Users\Administrator\Desktop\aa\Answer\build\intermediates\exploded-aar\org.xutils\xutils\3.3.36\AndroidManifest.xml:8:5-10:41
+	android:targetSdkVersion
+		ADDED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml:8:9-34
+		INJECTED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml:11:22-78
+application
+ADDED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml:12:5-52:19
+MERGED from [org.xutils:xutils:3.3.36] C:\Users\Administrator\Desktop\aa\Answer\build\intermediates\exploded-aar\org.xutils\xutils\3.3.36\AndroidManifest.xml:12:5-20
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml:15:9-41
+	android:allowBackup
+		ADDED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml:14:9-45
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml:17:9-40
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml:16:9-38
+activity#com.example.answer.MainActivity
+ADDED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml:18:9-26:20
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml:19:13-59
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml:24:27-74
+activity#com.example.answer.AnalogyExaminationActivity
+ADDED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml:28:9-34:20
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml:33:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml:31:13-45
+	android:launchMode
+		ADDED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml:32:13-43
+	android:configChanges
+		ADDED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml:30:13-74
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml:29:13-55
+activity#com.example.answer.MyErrorQuestionActivity
+ADDED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml:36:9-42:20
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml:41:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml:39:13-45
+	android:launchMode
+		ADDED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml:40:13-43
+	android:configChanges
+		ADDED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml:38:13-74
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml:37:13-52
+activity#com.example.answer.MyErrorQuestionDetailActivity
+ADDED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml:44:9-50:20
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml:49:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml:47:13-45
+	android:launchMode
+		ADDED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml:48:13-43
+	android:configChanges
+		ADDED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml:46:13-74
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\aa\Answer\AndroidManifest.xml:45:13-58
